@@ -15,7 +15,7 @@ Galeri
 Transaksi
 ![alt text](https://github.com/ClarissaSanindita/Web_Kuliner/blob/master/8.PNG)
 Nota
-![alt text](https://github.com/ClarissaSanindita/Web_Kuliner/blob/master/9.PNG)
+![alt text](https://github.com/ClarissaSanindita/Web_Kuliner/blob/master/9.png)
 Tabel Makanan (admin)
 ![alt text](https://github.com/ClarissaSanindita/Web_Kuliner/blob/master/10.PNG)
 Edit Tabel Makanan
